@@ -3,3 +3,4 @@ Edu info:
   SSC: 2015
   HSC: 2020
   BSC: 2022
+  MSC: 2023
